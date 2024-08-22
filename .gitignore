@@ -10,6 +10,7 @@
 .vscode/
 *.class
 *.log
+*.metadata
 
 # Ignore Maven and Gradle specific files
 .mvn/
