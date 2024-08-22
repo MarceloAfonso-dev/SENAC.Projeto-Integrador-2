@@ -1,0 +1,32 @@
+# Ignore build output directories
+/bin
+/target
+
+# Ignore IDE specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+*.class
+*.log
+
+# Ignore Maven and Gradle specific files
+.mvn/
+.gradle/
+build/
+!src/main/resources/
+/target/
+!src/main/webapp/
+/logs/
+
+# Ignore Tomcat specific files
+conf/
+logs/
+temp/
+work/
+*.war
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
