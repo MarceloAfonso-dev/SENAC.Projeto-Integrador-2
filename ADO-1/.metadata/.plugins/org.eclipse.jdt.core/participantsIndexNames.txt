@@ -1,5 +1,0 @@
-INDEX VERSION 1.134
-/home/marcelo-afonso/Senac/PI/ADO-1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2301469483.index
-/ADO1/src/main/java
-/home/marcelo-afonso/Senac/PI/ADO-1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3614301222.index
-/ADO1/src/main/java

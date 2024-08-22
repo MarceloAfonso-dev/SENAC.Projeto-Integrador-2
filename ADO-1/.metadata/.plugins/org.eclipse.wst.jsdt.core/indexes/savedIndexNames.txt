@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+/home/marcelo-afonso/Senac/PI/ADO-1/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-4062917015.index
-2301469483.index
-2418923912.index
-2426897201.index
-4155967100.index
-2349679734.index
-968353587.index
